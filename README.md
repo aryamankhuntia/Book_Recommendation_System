@@ -18,8 +18,6 @@ Here is an intelligent book recommendation system that makes recommends books ba
 - **User-Rated Recommendations**
 - **Relatable and On-Brand Filtering**
 
-## 🚀 Getting Started
-
 ## 🛠️ Installation
 To run locally:
 ```bash
