@@ -6,10 +6,10 @@
 
 👉 **Live Demo:** : [http://54.146.153.184:8501/]
 
+![Screenshot](/screenshots/interface.jpg)  
+
 ## 🌟 Overview
 Here is an intelligent book recommendation system that makes recommends books based on a largescale books and user collaborated dataset. It refines its searches through collaborative filtering to bring to you more relatable book recommendations, and ease your reading journey here on out.
-
-![Screenshot](/screenshots/interface.jpg)  
 
 ## ✨ Key Features
 - **Personalized Recommendations**
