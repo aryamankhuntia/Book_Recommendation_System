@@ -7,20 +7,27 @@
 👉 **Live Demo:** : [http://54.146.153.184:8501/]
 
 ## 🌟 Overview
-A intelligent book recommendation system that [...]  
-*(Insert 1-2 sentences describing your unique value proposition - e.g., "uses collaborative filtering and content-based filtering to suggest personalized books")*
+Here is an intelligent book recommendation system that makes recommends books based on a largescale books and user collaborated dataset. It refines its searches through collaborative filtering to bring to you more relatable book recommendations, and ease your reading journey here on out.
 
 ![Screenshot](/screenshots/interface.jpg)  
 
 ## ✨ Key Features
-- **Personalized Recommendations**: [...] 
-- **Book Discovery**: [...] 
-- **Interactive Interface**: [...] 
-- **[...]**: Add your unique feature
-- **[...]**: Another key feature
+- **Personalized Recommendations**
+- **Book Discovery**
+- **Interactive Interface**
+- **User-Rated Recommendations**
+- **Relatable and On-Brand Filtering**
 
 ## 🚀 Getting Started
 
-### Prerequisites
+## 🛠️ Installation
+To run locally:
 ```bash
-Python 3.8+
+# Clone repository
+git clone https://github.com/your-username/laptop-price-predictor.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Start Streamlit Server
+streamlit run app.py
