@@ -10,7 +10,7 @@
 A intelligent book recommendation system that [...]  
 *(Insert 1-2 sentences describing your unique value proposition - e.g., "uses collaborative filtering and content-based filtering to suggest personalized books")*
 
-![Screenshot](/screenshots/interface.png)  
+![Screenshot](/screenshots/interface.jpg)  
 
 ## ✨ Key Features
 - **Personalized Recommendations**: [...] 
