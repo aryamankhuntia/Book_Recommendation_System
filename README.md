@@ -9,7 +9,7 @@
 ![Screenshot](/screenshots/interface.jpg)  
 
 ## 🌟 Overview
-Here is an intelligent book recommendation system that makes recommends books based on a largescale books and user collaborated dataset. It refines its searches through collaborative filtering to bring to you more relatable book recommendations, and ease your reading journey here on out.
+Here is an intelligent book recommendation system that recommends books based on a largescale books and user collaborated dataset. It refines its searches through collaborative filtering to bring to you more relatable book recommendations, and ease your reading journey here on out.
 
 ## ✨ Key Features
 - **Personalized Recommendations**
