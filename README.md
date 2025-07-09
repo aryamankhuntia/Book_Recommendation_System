@@ -1,7 +1,7 @@
 # 📚 Book Recommendation System
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app) 
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](http://54.146.153.184:8501/) 
 [![Deployment](https://img.shields.io/badge/Deployment-AWS-purple)](https://aws.amazon.com/)
 
 > **Live Demo**: [http://54.146.153.184:8501/]
